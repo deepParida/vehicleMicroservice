@@ -1,0 +1,1 @@
+insert into testdb.vehicle_violation ( vehicle_number,penalty_amount, penalty_done,penalty_type,vehicle_type, violation_date, violation_done,vehicle_id) values ('KA01-HB-3570',200,0,'Signal-cross','4-wheeler','2018-09-10','yes',10);
